@@ -1,2 +1,2 @@
 new file added
-text added from the develop branch
+text added from the develop branchthis is a change I want to keepthis is a change from the test branch
