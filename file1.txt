@@ -12,3 +12,5 @@ this is a change I want to keep
 this is a change from the test branch
 
 change after deletion of file in test branch
+
+change 2 after deletion of file in test branch
